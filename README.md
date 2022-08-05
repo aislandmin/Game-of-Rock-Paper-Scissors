@@ -7,14 +7,13 @@ The Users should be able to:
 - View the optimal layout for the game depending on their device's screen size
 - Play Rock, Paper, Scissors against the computer
 
-## Rules
+Rules:
 
 If the player wins, the player gains 1 point. If the computer wins, the player loses one point.
 
 - Paper beats Rock
 - Rock beats Scissors
 - Scissors beats Paper
-
 
 ## Table of contents
 
@@ -29,7 +28,7 @@ If the player wins, the player gains 1 point. If the computer wins, the player l
 
 ### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Game of Rock, Paper, Scissors](https://aislandmin.github.io/Game-of-Rock-Paper-Scissors/)
 
 ### Screenshots
 
@@ -40,7 +39,6 @@ If the player wins, the player gains 1 point. If the computer wins, the player l
 ![](./screenshots/screenshot3.png)
 
 ![](./screenshots/screenshot4.png)
-
 
 ## My process
 
@@ -54,9 +52,8 @@ If the player wins, the player gains 1 point. If the computer wins, the player l
 
 ### Useful resources
 
-- [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/) 
+- [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
 
 ## Author
 
 - Website - [Xiaomin Guo](https://min-website-aislandmin.vercel.app/)
-
