@@ -17,17 +17,17 @@ const computerSelection = function () {
 };
 
 const playPressedSound = function () {
-  let audio = new Audio("../sound/pressed.wav");
+  let audio = new Audio("./sound/pressed.wav");
   audio.play();
 };
 
 const playWinSound = function () {
-  let audio = new Audio("../sound/win.wav");
+  let audio = new Audio("./sound/win.wav");
   audio.play();
 };
 
 const playLoseSound = function () {
-  let audio = new Audio("../sound/lose.wav");
+  let audio = new Audio("./sound/lose.wav");
   audio.play();
 };
 
