@@ -18,7 +18,6 @@ const computerSelection = function () {
 
 const playPressedSound = function () {
   let audio = new Audio("./sound/pressed.wav");
-  audio.crossOrigin = 'anonymous';
   audio.play();
 };
 
